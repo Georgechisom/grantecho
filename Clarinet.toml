@@ -1,6 +1,6 @@
 [project]
 name = 'grantecho'
-description = ''
+description = 'SIP-031 Grant Proposal Tracker for Stacks Governance'
 authors = []
 telemetry = true
 cache_dir = './.cache'
